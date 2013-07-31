@@ -6,8 +6,8 @@ import java.util.Date;
 
 /**
  *
- * @author px
- * @date 2010-04-26
+ * @author yangfei
+ * @date 2013-10-1
  *
  */
 public class DateUtils {

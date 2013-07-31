@@ -8,7 +8,6 @@ public class Action {
 		list=Service.doSomething();
 		if(list!=null&&list.isEmpty()){
 			/*
-			 *此处省略其他操作
 			 */
 		}
 	}
